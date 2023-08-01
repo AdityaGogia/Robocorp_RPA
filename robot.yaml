@@ -1,0 +1,11 @@
+tasks:
+  Send email with Outlook application on Windows:
+    robotTaskName: Send email with Outlook application on Windows
+condaConfigFile: conda.yaml
+ignoreFiles:
+- .gitignore
+artifactsDir: output
+PATH:
+- .
+PYTHONPATH:
+- .

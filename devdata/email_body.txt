@@ -1,0 +1,7 @@
+Greetings!
+
+This e-mail has been sent by a Robocorp Jarvis robot.
+<ATTACHMENT_TEXT>
+
+Best Regards,
+Jarvis Robot
